@@ -1,0 +1,147 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 24 Dec 2024 10:39:05 at http://clapat-themes.com/wordpress/montoya/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://clapat-themes.com/wordpress/montoya/ -O1 "C:\My Web Sites\Montova" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:39:06	Error: 	"Internal Server Error" (500) after 2 retries at link clapat-themes.com/robots.txt (from primary/primary)
+10:40:39	Warning: 	Retry after error -4 (No data (connection closed)) at link clapat-themes.com/wordpress/montoya/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1 (from clapat-themes.com/wordpress/montoya/)
+10:40:41	Warning: 	Retry after error -4 (No data (connection closed)) at link clapat-themes.com/wordpress/montoya/wp-content/themes/montoya/css/content.css?ver=6.7.1 (from clapat-themes.com/wordpress/montoya/)
+10:40:41	Warning: 	Retry after error -4 (No data (connection closed)) at link clapat-themes.com/wordpress/montoya/wp-content/themes/montoya/css/portfolio.css?ver=6.7.1 (from clapat-themes.com/wordpress/montoya/)
+10:40:42	Warning: 	Retry after error -4 (No data (connection closed)) at link clapat-themes.com/wordpress/montoya/wp-content/themes/montoya/css/shortcodes.css?ver=6.7.1 (from clapat-themes.com/wordpress/montoya/)
+10:40:42	Warning: 	Retry after error -4 (No data (connection closed)) at link clapat-themes.com/wordpress/montoya/wp-content/themes/montoya/css/style-wp.css?ver=6.7.1 (from clapat-themes.com/wordpress/montoya/)
+10:40:43	Warning: 	Retry after error -4 (No data (connection closed)) at link clapat-themes.com/wordpress/montoya/wp-content/themes/montoya/css/all.min.css?ver=6.7.1 (from clapat-themes.com/wordpress/montoya/)
+10:40:43	Warning: 	Retry after error -4 (No data (connection closed)) at link clapat-themes.com/wordpress/montoya/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1 (from clapat-themes.com/wordpress/montoya/)
+10:43:40	Warning: 	Retry after error -4 (No data (connection closed)) at link clapat-themes.com/wordpress/montoya/multimedia/ (from clapat-themes.com/wordpress/montoya/)
+10:43:50	Warning: 	Retry after error -4 (No data (connection closed)) at link clapat-themes.com/wordpress/montoya/montoya_portfolio/white-liners/ (from clapat-themes.com/wordpress/montoya/)
+10:44:14	Warning: 	Retry after error -4 (No data (connection closed)) at link clapat-themes.com/wordpress/montoya/montoya_portfolio/cool-dude/ (from clapat-themes.com/wordpress/montoya/)
+10:44:28	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/clapat-themes.com/wordpress/montoya/portfolio-grid/
+10:44:28	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/clapat-themes.com/wordpress/montoya/portfolio-grid/ to http://clapat-themes.com/wordpress/montoya/portfolio-grid/
+10:44:43	Warning: 	Retry after error -4 (No data (connection closed)) at link clapat-themes.com/wordpress/montoya/wp-content/themes/montoya/core/js/gsap.min.js?ver=6.7.1 (from clapat-themes.com/wordpress/montoya/)
+10:44:43	Warning: 	Retry after error -4 (No data (connection closed)) at link clapat-themes.com/wordpress/montoya/wp-content/themes/montoya/core/js/flip.min.js?ver=6.7.1 (from clapat-themes.com/wordpress/montoya/)
+10:44:43	Warning: 	Retry after error -4 (No data (connection closed)) at link clapat-themes.com/wordpress/montoya/wp-content/themes/montoya/core/js/smooth-scrollbar.min.js?ver=6.7.1 (from clapat-themes.com/wordpress/montoya/)
+10:44:59	Warning: 	Retry after error -4 (No data (connection closed)) at link clapat-themes.com/wordpress/montoya/wp-content/themes/montoya/core/js/contact.js?ver=6.7.1 (from clapat-themes.com/wordpress/montoya/)
+10:44:59	Warning: 	Retry after error -4 (No data (connection closed)) at link clapat-themes.com/wordpress/montoya/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=9.4.2 (from clapat-themes.com/wordpress/montoya/)
+10:45:02	Warning: 	Retry after error -4 (No data (connection closed)) at link clapat-themes.com/wordpress/montoya/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff (from clapat-themes.com/wordpress/montoya/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=9.4.2)
+10:45:02	Warning: 	Retry after error -4 (No data (connection closed)) at link clapat-themes.com/wordpress/montoya/wp-content/themes/montoya/images/close.png (from clapat-themes.com/wordpress/montoya/wp-content/themes/montoya/css/blog.css?ver=6.7.1)
+10:45:06	Warning: 	Retry after error -4 (No data (connection closed)) at link clapat-themes.com/wordpress/montoya/wp-content/themes/montoya/css/all.min.css?ver=6.7.1 (from clapat-themes.com/wordpress/montoya/)
+10:45:06	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=3039
+10:45:06	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=3039 to http://clapat-themes.com/wordpress/montoya/parallax-gallery/
+10:45:06	Warning: 	Retry after error -4 (No data (connection closed)) at link clapat-themes.com/wordpress/montoya/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fclapat-themes.com%2Fwordpress%2Fmontoya%2Fparallax-gallery%2F (from clapat-themes.com/wordpress/montoya/parallax-gallery/)
+10:46:29	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=2726
+10:46:29	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=2726 to http://clapat-themes.com/wordpress/montoya/portfolio-grid/
+10:46:29	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=2738
+10:46:29	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=2738 to http://clapat-themes.com/wordpress/montoya/archive-gallery/
+10:46:30	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=2743
+10:46:30	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=2743 to http://clapat-themes.com/wordpress/montoya/about/
+10:46:30	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=2797
+10:46:30	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=2797 to http://clapat-themes.com/wordpress/montoya/stories/
+10:50:09	Error: 	"Bad Request" (400) at link clapat-themes.com/wordpress/montoya/wp-admin/admin-ajax.php?action=rest-nonce (from clapat-themes.com/wordpress/montoya/shop/)
+10:50:12	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=2770
+10:50:12	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=2770 to http://clapat-themes.com/wordpress/montoya/contact/
+10:50:12	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=2862
+10:50:12	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=2862 to http://clapat-themes.com/wordpress/montoya/typography/
+10:50:23	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=2864
+10:50:23	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=2864 to http://clapat-themes.com/wordpress/montoya/shortcodes/
+10:50:47	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=2716
+10:50:47	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=2716 to http://clapat-themes.com/wordpress/montoya/montoya_portfolio/green-audio/
+10:50:47	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=2715
+10:50:47	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=2715 to http://clapat-themes.com/wordpress/montoya/montoya_portfolio/nanotech/
+10:51:02	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=2713
+10:51:02	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=2713 to http://clapat-themes.com/wordpress/montoya/montoya_portfolio/sphere-digital/
+10:51:02	Error: 	"Not Found" (404) at link clapat-themes.com/wordpress/montoya/GET (from clapat-themes.com/wordpress/montoya/wp-content/themes/montoya/core/js/three.min.js?ver=6.7.1)
+10:51:02	Error: 	"Not Found" (404) at link clapat-themes.com/wordpress/montoya/THREE.SceneUtils has been moved to /examples/jsm/utils/SceneUtils.js (from clapat-themes.com/wordpress/montoya/wp-content/themes/montoya/core/js/three.min.js?ver=6.7.1)
+10:51:02	Error: 	"Not Found" (404) at link clapat-themes.com/wordpress/montoya/THREE.LensFlare has been moved to /examples/jsm/objects/Lensflare.js (from clapat-themes.com/wordpress/montoya/wp-content/themes/montoya/core/js/three.min.js?ver=6.7.1)
+10:51:02	Error: 	"Not Found" (404) at link clapat-themes.com/wordpress/montoya/images/logo-white.png (from clapat-themes.com/wordpress/montoya/wp-content/themes/montoya/core/js/common.js?ver=6.7.1)
+10:51:02	Error: 	"Not Found" (404) at link clapat-themes.com/wordpress/montoya/images/logo-white-symbol.png (from clapat-themes.com/wordpress/montoya/wp-content/themes/montoya/core/js/common.js?ver=6.7.1)
+10:51:02	Error: 	"Not Found" (404) at link clapat-themes.com/wordpress/montoya/images/logo.png (from clapat-themes.com/wordpress/montoya/wp-content/themes/montoya/core/js/common.js?ver=6.7.1)
+10:51:02	Error: 	"Not Found" (404) at link clapat-themes.com/wordpress/montoya/images/logo-symbol.png (from clapat-themes.com/wordpress/montoya/wp-content/themes/montoya/core/js/common.js?ver=6.7.1)
+10:51:02	Error: 	"Not Found" (404) at link clapat-themes.com/wordpress/montoya/vimeo.com/ (from clapat-themes.com/wordpress/montoya/wp-content/themes/montoya/core/js/common.js?ver=6.7.1)
+10:51:02	Error: 	"Not Found" (404) at link clapat-themes.com/wordpress/montoya/youtube.com/ (from clapat-themes.com/wordpress/montoya/wp-content/themes/montoya/core/js/common.js?ver=6.7.1)
+10:51:08	Warning: 	Retry after error -4 (No data (connection closed)) at link clapat-themes.com/wordpress/montoya/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff (from clapat-themes.com/wordpress/montoya/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=9.4.2)
+10:51:31	Warning: 	Retry after error -4 (No data (connection closed)) at link clapat-themes.com/wordpress/montoya/?p=2712 (from clapat-themes.com/wordpress/montoya/montoya_portfolio/leather-chair/)
+10:51:31	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=2711
+10:51:31	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=2711 to http://clapat-themes.com/wordpress/montoya/montoya_portfolio/folding-phone/
+10:51:31	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=2710
+10:51:31	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=2710 to http://clapat-themes.com/wordpress/montoya/montoya_portfolio/enclosure/
+10:51:31	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=2559
+10:51:31	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=2559 to http://clapat-themes.com/wordpress/montoya/2022/03/14/blue-ocean-waves/
+10:51:42	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=2557
+10:51:42	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=2557 to http://clapat-themes.com/wordpress/montoya/2022/03/14/desert-treasure-hunt/
+10:51:49	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=2555
+10:51:49	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=2555 to http://clapat-themes.com/wordpress/montoya/2022/03/14/bird-eye-shots/
+10:51:59	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=2553
+10:51:59	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=2553 to http://clapat-themes.com/wordpress/montoya/2022/03/14/blonde-surf-girl/
+10:52:02	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=2551
+10:52:02	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=2551 to http://clapat-themes.com/wordpress/montoya/2022/03/14/endless-road-stories/
+10:52:12	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=30
+10:52:12	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=30 to http://clapat-themes.com/wordpress/montoya/2022/03/01/hello-world-2/
+10:52:14	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=1081
+10:52:14	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=1081 to http://clapat-themes.com/wordpress/montoya/product/beanie/
+10:52:31	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=1082
+10:52:31	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=1082 to http://clapat-themes.com/wordpress/montoya/product/belt/
+10:52:34	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=1083
+10:52:34	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=1083 to http://clapat-themes.com/wordpress/montoya/product/cap/
+10:52:35	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=1085
+10:52:35	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=1085 to http://clapat-themes.com/wordpress/montoya/product/hoodie-with-pocket/
+10:52:35	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=1086
+10:52:35	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=1086 to http://clapat-themes.com/wordpress/montoya/product/hoodie-with-zipper/
+10:52:36	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=1084
+10:52:36	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=1084 to http://clapat-themes.com/wordpress/montoya/product/sunglasses/
+10:52:36	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=1078
+10:52:36	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=1078 to http://clapat-themes.com/wordpress/montoya/product/hoodie/
+10:52:37	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=1079
+10:52:37	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=1079 to http://clapat-themes.com/wordpress/montoya/product/hoodie-with-logo/
+10:52:38	Error: 	"Not Found" (404) at link clapat-themes.com/wordpress/montoya/shop/$&/ (from clapat-themes.com/wordpress/montoya/wp-includes/js/dist/vendor/react.min.js?ver=18.3.1)
+10:52:38	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/shop/Components must be wrapped within `SlotFillProvider`. See https://developer.wordpress.org/block-editor/components/slot-fill/
+10:52:38	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/shop/Components must be wrapped within `SlotFillProvider`. See https://developer.wordpress.org/block-editor/components/slot-fill/ to http://clapat-themes.com/wordpress/montoya/shop/Components%20must%20be%20wrapped%20within%20SlotFillProvider.%20See%20https:/developer.wordpress.org/block-editor/components/slot-fill/
+10:52:38	Error: 	"Not Found" (404) at link clapat-themes.com/wordpress/montoya/shop/GET (from clapat-themes.com/wordpress/montoya/wp-content/plugins/woocommerce/assets/client/blocks/wc-cart-checkout-vendors-frontend.js?ver=f35ab12b279076d2ee08)
+10:52:38	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=2865
+10:52:38	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=2865 to http://clapat-themes.com/wordpress/montoya/multimedia/
+10:52:38	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=2717
+10:52:38	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=2717 to http://clapat-themes.com/wordpress/montoya/montoya_portfolio/white-liners/
+10:52:38	Warning: 	Retry after error -4 (No data (connection closed)) at link clapat-themes.com/wordpress/montoya/wp-content/uploads/2024/04/liners05.jpg (from clapat-themes.com/wordpress/montoya/montoya_portfolio/white-liners/)
+10:52:38	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=2714
+10:52:38	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=2714 to http://clapat-themes.com/wordpress/montoya/montoya_portfolio/cool-dude/
+10:52:38	Error: 	"Not Found" (404) at link clapat-themes.com/wordpress/montoya/images/marker.png (from clapat-themes.com/wordpress/montoya/wp-content/themes/montoya/core/js/contact.js?ver=6.7.1)
+10:52:38	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=2712
+10:52:38	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=2712 to http://clapat-themes.com/wordpress/montoya/montoya_portfolio/leather-chair/
+10:52:38	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=3092
+10:52:38	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=3092 to http://clapat-themes.com/wordpress/montoya/cart/
+10:52:38	Warning: 	Found for clapat-themes.com/wordpress/montoya/cart/?remove_item=36a16a2505369e0c922b6ea7a23a56d2&_wpnonce=2689288d82
+10:52:38	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/cart/?remove_item=36a16a2505369e0c922b6ea7a23a56d2&_wpnonce=2689288d82 to http://clapat-themes.com/wordpress/montoya/cart/?removed_item=1
+10:52:38	Warning: 	Found for clapat-themes.com/wordpress/montoya/cart/?remove_item=818f4654ed39a1c147d1e51a00ffb4cb&_wpnonce=2689288d82
+10:52:38	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/cart/?remove_item=818f4654ed39a1c147d1e51a00ffb4cb&_wpnonce=2689288d82 to http://clapat-themes.com/wordpress/montoya/cart/?removed_item=1
+10:52:39	Warning: 	Found for clapat-themes.com/wordpress/montoya/cart/?remove_item=e5e63da79fcd2bebbd7cb8bf1c1d0274&_wpnonce=2689288d82
+10:52:39	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/cart/?remove_item=e5e63da79fcd2bebbd7cb8bf1c1d0274&_wpnonce=2689288d82 to http://clapat-themes.com/wordpress/montoya/cart/?removed_item=1
+10:52:39	Warning: 	Found for clapat-themes.com/wordpress/montoya/cart/?remove_item=4f16c818875d9fcb6867c7bdc89be7eb&_wpnonce=2689288d82
+10:52:39	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/cart/?remove_item=4f16c818875d9fcb6867c7bdc89be7eb&_wpnonce=2689288d82 to http://clapat-themes.com/wordpress/montoya/cart/?removed_item=1
+10:52:39	Warning: 	Found for clapat-themes.com/wordpress/montoya/cart/?remove_item=d91d1b4d82419de8a614abce9cc0e6d4&_wpnonce=2689288d82
+10:52:39	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/cart/?remove_item=d91d1b4d82419de8a614abce9cc0e6d4&_wpnonce=2689288d82 to http://clapat-themes.com/wordpress/montoya/cart/?removed_item=1
+10:52:39	Warning: 	Found for clapat-themes.com/wordpress/montoya/cart/?remove_item=9f36407ead0629fc166f14dde7970f68&_wpnonce=2689288d82
+10:52:39	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/cart/?remove_item=9f36407ead0629fc166f14dde7970f68&_wpnonce=2689288d82 to http://clapat-themes.com/wordpress/montoya/cart/?removed_item=1
+10:52:39	Warning: 	Found for clapat-themes.com/wordpress/montoya/cart/?remove_item=43baa6762fa81bb43b39c62553b2970d&_wpnonce=2689288d82
+10:52:39	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/cart/?remove_item=43baa6762fa81bb43b39c62553b2970d&_wpnonce=2689288d82 to http://clapat-themes.com/wordpress/montoya/cart/?removed_item=1
+10:52:54	Error: 	"Not Found" (404) at link clapat-themes.com/wordpress/montoya/shop/Components must be wrapped within SlotFillProvider. See https:/developer.wordpress.org/block-editor/components/slot-fill/ (from clapat-themes.com/wordpress/montoya/shop/Components must be wrapped within `SlotFillProvider`. See https://developer.wordpress.org/block-editor/components/slot-fill/)
+10:52:57	Warning: 	Moved Permanently for clapat-themes.com/wordpress/montoya/?p=3093
+10:52:57	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/?p=3093 to http://clapat-themes.com/wordpress/montoya/checkout/
+10:52:57	Warning: 	Found for clapat-themes.com/wordpress/montoya/cart/?undo_item=36a16a2505369e0c922b6ea7a23a56d2&_wpnonce=2689288d82
+10:52:57	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/cart/?undo_item=36a16a2505369e0c922b6ea7a23a56d2&_wpnonce=2689288d82 to http://clapat-themes.com/wordpress/montoya/checkout/
+10:52:57	Warning: 	Found for clapat-themes.com/wordpress/montoya/cart/?undo_item=e5e63da79fcd2bebbd7cb8bf1c1d0274&_wpnonce=2689288d82
+10:52:57	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/cart/?undo_item=e5e63da79fcd2bebbd7cb8bf1c1d0274&_wpnonce=2689288d82 to http://clapat-themes.com/wordpress/montoya/checkout/
+10:52:57	Warning: 	Found for clapat-themes.com/wordpress/montoya/cart/?undo_item=d91d1b4d82419de8a614abce9cc0e6d4&_wpnonce=2689288d82
+10:52:57	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/cart/?undo_item=d91d1b4d82419de8a614abce9cc0e6d4&_wpnonce=2689288d82 to http://clapat-themes.com/wordpress/montoya/checkout/
+10:52:57	Warning: 	Found for clapat-themes.com/wordpress/montoya/cart/?undo_item=43baa6762fa81bb43b39c62553b2970d&_wpnonce=2689288d82
+10:52:57	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/cart/?undo_item=43baa6762fa81bb43b39c62553b2970d&_wpnonce=2689288d82 to http://clapat-themes.com/wordpress/montoya/checkout/
+10:52:57	Error: 	"Not Found" (404) at link clapat-themes.com/wordpress/montoya/?page_id=3 (from clapat-themes.com/wordpress/montoya/checkout/)
+10:52:57	Warning: 	Found for clapat-themes.com/wordpress/montoya/cart/?removed_item=1&remove_item=818f4654ed39a1c147d1e51a00ffb4cb&_wpnonce=2689288d82
+10:52:57	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/cart/?removed_item=1&remove_item=818f4654ed39a1c147d1e51a00ffb4cb&_wpnonce=2689288d82 to http://clapat-themes.com/wordpress/montoya/cart/?removed_item=1
+10:52:57	Warning: 	Found for clapat-themes.com/wordpress/montoya/cart/?removed_item=1&remove_item=4f16c818875d9fcb6867c7bdc89be7eb&_wpnonce=2689288d82
+10:52:57	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/cart/?removed_item=1&remove_item=4f16c818875d9fcb6867c7bdc89be7eb&_wpnonce=2689288d82 to http://clapat-themes.com/wordpress/montoya/cart/?removed_item=1
+10:52:58	Warning: 	Found for clapat-themes.com/wordpress/montoya/cart/?removed_item=1&remove_item=9f36407ead0629fc166f14dde7970f68&_wpnonce=2689288d82
+10:52:58	Warning: 	File has moved from clapat-themes.com/wordpress/montoya/cart/?removed_item=1&remove_item=9f36407ead0629fc166f14dde7970f68&_wpnonce=2689288d82 to http://clapat-themes.com/wordpress/montoya/cart/?removed_item=1
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 53 seconds : 558 links scanned, 471 files written (21625460 bytes overall) [14069555 bytes received at 16890 bytes/sec], 11624312 bytes transferred using HTTP compression in 327 files, ratio 28%, 3.0 requests per connection
+(16 errors, 120 warnings, 0 messages)

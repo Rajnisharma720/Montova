@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+clapat-themes.com	TRUE	/wordpress/montoya/	FALSE	1999999999	woocommerce_items_in_cart	1
+clapat-themes.com	TRUE	/wordpress/montoya/	FALSE	1999999999	wp_woocommerce_session_775011a7afd3b5c0e9782301ef3eaca5	t_ac09c34bfb4d328db02c0c0b83df68%7C%7C1735189969%7C%7C1735186369%7C%7C66f219e5e94ec91a7e49c55ae7d0316c
+clapat-themes.com	TRUE	/wordpress/montoya/	FALSE	1999999999	woocommerce_cart_hash	73b71c5bb624587375ed42ee7e774770
+
